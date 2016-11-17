@@ -10,7 +10,7 @@
     "500.title": "Internal error.",
     "500.message": "Oops! Looks like something went wrong!",
     "register": "Register",
-    "login": "Login",
+    "login": "Login via Battle.net",
     "please_log_in": "Please Log In",
     "logout": "Logout",
     "posting_restriction_info": "Posting is currently restricted to registered members only, click here to log in.",
