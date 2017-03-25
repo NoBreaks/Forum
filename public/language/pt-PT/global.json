@@ -12,7 +12,7 @@
     "400.title": "O pedido não correu bem.",
     "400.message": "Parece que este link está mal formado. Por favor volta a confirma-lo e tenta novamente ou então retorna à <a href='%1/'>página principal</a>.",
     "register": "Regista-te",
-    "login": "Login",
+    "login": "Login via Battle.net",
     "please_log_in": "Por favor faz o login",
     "logout": "Logout",
     "posting_restriction_info": "Publicar está neste momento restrito a membros registados, clica aqui para efetuares o login.",

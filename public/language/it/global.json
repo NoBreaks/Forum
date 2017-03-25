@@ -12,7 +12,7 @@
     "400.title": "Richiesta non valida.",
     "400.message": "Sembra che questo link sia stato mal formulato, per favore ricontrolla e riprova. Altrimenti ritorna alla <a href='%1/'>home page</a>.",
     "register": "Registrazione",
-    "login": "Login",
+    "login": "Login via Battle.net",
     "please_log_in": "Per favore Accedi",
     "logout": "Logout",
     "posting_restriction_info": "L'inserimento è attualmente ristretto ai soli utenti registrati, clicca qui per effettuare l'accesso.",

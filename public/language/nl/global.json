@@ -12,7 +12,7 @@
     "400.title": "Foutief verzoek",
     "400.message": "Het lijkt erop dat de link onjuist is. Kijk het nog eens na en probeer het opnieuw. Of ga terug naar de <a href='%1/'>startpagina</a>.",
     "register": "Registeren",
-    "login": "Login",
+    "login": "Login via Battle.net",
     "please_log_in": "Aanmelden",
     "logout": "Uitloggen",
     "posting_restriction_info": "Reageren is momenteel beperkt tot geregistreerde leden, klik hier om in te loggen.",

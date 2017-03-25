@@ -12,7 +12,7 @@
     "400.title": "Bad Request.",
     "400.message": "It looks like this link is malformed, please double-check and try again. Otherwise, return to the <a href='%1/'>home page</a>.",
     "register": "Register",
-    "login": "Login",
+    "login": "Login via Battle.net",
     "please_log_in": "Please Log In",
     "logout": "Logout",
     "posting_restriction_info": "Posting is currently restricted to registered members only, click here to log in.",
